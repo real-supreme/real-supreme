@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate techie, A jack-of-all-trades, who loves to play around and enjoy pumping out clean and helpful codes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=real-supreme&label=Profile%20views&color=0e75b6&style=flat" alt="real-supreme" /> </p>
+<a href="#" data-href="#"><p align="left"> <img src="https://komarev.com/ghpvc/?username=real-supreme&label=Profile%20views&color=0e75b6&style=flat" alt="real-supreme" /> </p></a>
 
 - 🔭 I’m currently working on **some private patent projects**
 
