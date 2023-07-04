@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some private patent projects**
 
-- 👯 I’m looking to collaborate on **django-python web application projects**
+- 👯 I’m looking to collaborate on **fully packaged software-solutions**
 
 - 🔐 Willing to team up? _Hit me up on discord!_ `SUPREME#1000`
 
