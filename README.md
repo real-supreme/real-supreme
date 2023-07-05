@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **fully packaged software-solutions**
 
-- 🔐 Willing to team up? _Hit me up on discord!_ `SUPREME#1000`
+- 🔐 Willing to team up? _Hit me up on discord!_ `SUPREME#1000`/`real_supreme`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
